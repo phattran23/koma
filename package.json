@@ -2,7 +2,7 @@
   "name": "koma",
   "version": "1.0.0",
   "private": true,
-  "description": "KOMA — trang đọc truyện ưu tiên tiếng Việt, dữ liệu từ MangaDex",
+  "description": "KOMA — trang đọc truyện ưu tiên tiếng Việt",
   "type": "module",
   "scripts": {
     "start": "node server.mjs",

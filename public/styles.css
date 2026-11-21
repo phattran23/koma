@@ -271,7 +271,3 @@ body.reading .topbar,body.reading .tabbar{display:none}
   .chline-a{display:none}
 }
 
-.credit{max-width:1240px;margin:0 auto;padding:0 24px 32px;font-size:12px;color:var(--text3)}
-.credit a{text-decoration:underline}
-body.reading .credit{display:none}
-@media (max-width:720px){.credit{padding-bottom:96px}}
